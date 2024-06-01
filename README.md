@@ -1,2 +1,2 @@
 # Manuel's HTML Resume
-Resume wiht html
+Resume made for CRC(Cloud Resume Challenge)
