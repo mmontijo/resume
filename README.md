@@ -1,2 +1,2 @@
-# resume
-This will be a place to hold my html resume
+# Manuel's HTML Resume
+Resume wiht html
