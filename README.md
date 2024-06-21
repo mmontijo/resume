@@ -1,2 +1,3 @@
 # Manuel's HTML Resume
-Resume made for CRC(Cloud Resume Challenge)
+This is a simple yet responsive template downloaded from HERE.
+The resume will be used at other repos THIS & THAT
